@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="title">Have a lucky day</string>
+    <string name="spin">Spin the ball</string>
 </resources>
